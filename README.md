@@ -3,7 +3,6 @@
 ## Overview
 
 ## Results
-
 ### Day nav style map with earthquakes
 <img width="960" alt="allearthquakes_daynav" src="https://user-images.githubusercontent.com/107224097/192069274-cd45b96e-3a9c-4e00-8d44-140f3ff66681.PNG">
 
